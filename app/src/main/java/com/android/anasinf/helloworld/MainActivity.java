@@ -39,6 +39,8 @@ public class MainActivity extends Activity
         // COMENTO UNA LINEA
         // SDKLFÑLSDF JSDLFK
         //SKLJDFLKSDFJHKLS
+        //  GFKLHK DFKHJDFKLGHDF
+        //GFHL FDKJHLFDKGJHDFKLGJ
         mNavigationDrawerFragment = (NavigationDrawerFragment)
                 getFragmentManager().findFragmentById(R.id.navigation_drawer);
         mTitle = getTitle();
