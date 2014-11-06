@@ -37,7 +37,8 @@ public class MainActivity extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // COMENTO UNA LINEA
-
+        // SDKLFÑLSDF JSDLFK
+        //SKLJDFLKSDFJHKLS
         mNavigationDrawerFragment = (NavigationDrawerFragment)
                 getFragmentManager().findFragmentById(R.id.navigation_drawer);
         mTitle = getTitle();
